@@ -25,3 +25,11 @@ Seriously kick-ass
 
 **Follow along at:
 [github.com/dfm/python-lunch](https://github.com/dfm/python-lunch)**
+
+## Links
+
+* [`emcee` documentation](http://danfm.ca/emcee)
+* [Fitting a model to data (Hogg et al.)](http://arxiv.org/abs/1008.4686)
+* [`f2py` "documentation"](http://www.scipy.org/F2py/)
+* [`Python`-`C` API](http://docs.python.org/c-api/)
+* [`numpy`-`C` API](http://docs.scipy.org/doc/numpy/reference/c-api.html)
