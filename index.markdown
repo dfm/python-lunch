@@ -5,7 +5,7 @@ title: Dan Foreman-Mackey
 
 # Python Lunch @ MPIA
 
-Dan Foreman-Mackey — [danfm.ca](http://danfm.ca)
+Dan Foreman-Mackey (NYU) — [danfm.ca](http://danfm.ca)
 — [github.com/dfm](https://github.com/dfm)
 — [@__dfm__](http://twitter.com/__dfm__)
 
