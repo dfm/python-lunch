@@ -39,4 +39,6 @@ Seriously kick-ass
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="500917c078b8ae0002111e92" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<div>
+  <script async class="speakerdeck-embed" data-id="500917c078b8ae0002111e92" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
