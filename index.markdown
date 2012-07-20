@@ -27,6 +27,7 @@ Seriously kick-ass
 **Follow along at:
 [github.com/dfm/python-lunch](https://github.com/dfm/python-lunch)**
 
+
 ## Links
 
 * [`emcee` documentation](http://danfm.ca/emcee)
@@ -34,3 +35,8 @@ Seriously kick-ass
 * [`f2py` "documentation"](http://www.scipy.org/F2py/)
 * [`Python`-`C` API](http://docs.python.org/c-api/)
 * [`numpy`-`C` API](http://docs.scipy.org/doc/numpy/reference/c-api.html)
+
+
+## Slides
+
+<script async class="speakerdeck-embed" data-id="500917c078b8ae0002111e92" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
