@@ -40,6 +40,5 @@ Seriously kick-ass
 ## Slides
 
 <div>
-<script class="speakerdeck-embed" data-id="500917c078b8ae0002111e92" src="http://speakerdeck.com/assets/embed.js"></script>
   <script src="//speakerdeck.com/embed/500917c078b8ae0002111e92.js?size=preview"></script>
 </div>
